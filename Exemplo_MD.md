@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/DtHQ3FG/802x265-Logo-GT.png" width="400">
+<img src="https://i.ibb.co/DtHQ3FG/802x265-Logo-GT.png" width="500">
 
 ## Grupo Turing
 # Bubble Sort
