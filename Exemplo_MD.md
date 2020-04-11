@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/DtHQ3FG/802x265-Logo-GT.png" width="">
+<img src="https://i.ibb.co/DtHQ3FG/802x265-Logo-GT.png" width="400">
 
 ## Grupo Turing
 # Bubble Sort
@@ -24,7 +24,8 @@ Complexidade:
 Grupo de Extensão da Universidade de São Paulo (USP)
 
 turing.usp@gmail.com  
-grupoturing.netlify.com  
-facebook.com/grupoturing.poliusp  
-medium.com/turing-talks  
-linkedin.com/company/grupo-turing
+<grupoturing.netlify.com>  
+<facebook.com/grupoturing.poliusp>  
+<medium.com/turing-talks>  
+<linkedin.com/company/grupo-turing>
+
