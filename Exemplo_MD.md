@@ -23,9 +23,9 @@ Complexidade:
 **Grupo Turing**  
 Grupo de Extensão da Universidade de São Paulo (USP)
 
-turing.usp@gmail.com  
-<grupoturing.netlify.com>  
-<facebook.com/grupoturing.poliusp>  
-<medium.com/turing-talks>  
-<linkedin.com/company/grupo-turing>
+[turing.usp@gmail.com](turing.usp@gmail.com)  
+[grupoturing.netlify.com](grupoturing.netlify.com)  
+[facebook.com/grupoturing.poliusp](facebook.com/grupoturing.poliusp)  
+[medium.com/turing-talks](medium.com/turing-talks)  
+[linkedin.com/company/grupo-turing](linkedin.com/company/grupo-turing)
 
